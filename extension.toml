@@ -1,0 +1,7 @@
+id = "zed-nim"
+name = "Zed Nim"
+version = "0.0.1"
+schema_version = 1
+authors = ["Preston Precourt <prestosilver.ptp@gmail.com>"]
+description = "Nim support in zed"
+repository = "https://github.com/bob16795/zed-nim"
