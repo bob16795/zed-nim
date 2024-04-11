@@ -2,8 +2,10 @@
 name = "zed-nim"
 version = "0.0.1"
 edition = "2021"
+publish = false
 
 [lib]
+paath = "src/nim.rs"
 crate-type = ["cdylib"]
 
 [dependencies]
